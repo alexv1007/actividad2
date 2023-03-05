@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>index</title>
+    <!--Bootstrap-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    <!--Animate.css-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+    <!--style-->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container my-3">
+            <h1 class="display-3">Caleb Alejandro Pedraza Dorantes</h1>
+            <p class="text-justify">Web responsive</p>
+            <p>
+               <a class="btn btn-primary btn-lg" href="#" role="button"> Aprende mas </a>
+            </p>
+        </div>
+        <div class="row text-center">
+            <div class="col-sm-12 col-md-6 col-lg-4 col-xl-4 mb-3">
+                <div class="card shadow">
+                    <div class="card-body">
+                        <h5 class="card-title">ROL: Analistas Funcionales</h5>
+                        <p class="card-text">Descripcion: Análisis y documentación de procesos integrales</p>
+                    <a href="#" class="btn btn-info">CLIC</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-4 col-xl-4 mb-3">
+                <div class="card shadow">
+                    <div class="card-body">
+                        <h5 class="card-title">Documentacion</h5>
+                        <p class="card-text">Aqui esta la documentacion</p>
+                    <a href="#" class="btn btn-info">CLIC</a>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+            <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6">
+                <img src="img/logo.png" class="img-fluid" alt="imagen"/>
+            </div>
+       
+    </div>
+
+</body>
+</html>
